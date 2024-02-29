@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Mario Dante Mariani</h1>
-<h3 align="left">As an Angular developer, I am passionate about creating innovative and high-quality web solutions. With a focus on continuous improvement, I always seek out opportunities to learn and stay up-to-date with the latest trends and technologies. I love collaborating with others and sharing my knowledge to help drive team success. I always work tirelessly to exceed client expectations and create exceptional solutions that have a lasting impact.</h3>
+<h3 align="left">As an Angular developer, I am passionate about creating innovative and high-quality web solutions. 
+I have collaborated in various development teams, contributing my knowledge, updates, and innovations in the technologies we are using to enhance the performance and quality of the software we have produced.
+I always work tirelessly to exceed client expectations and create exceptional solutions that have a lasting impact.</h3>
 
 - 💬 Ask me about **Angular is my main technology, however, I am open to participate, give my point of view and be able to help developers with their concerns about how to carry out any system development project.**
 
