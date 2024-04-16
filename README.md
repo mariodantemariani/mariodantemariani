@@ -21,8 +21,8 @@ I always work tirelessly to exceed client expectations and create exceptional so
 
 ### Tools
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code)
 
 
