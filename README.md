@@ -17,23 +17,25 @@ I always work tirelessly to exceed client expectations and create exceptional so
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+<br/>
 
 ### Tools
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code)
+
+
+
+
 <!--
 <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> </a>
 -->
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code)
 
 ### Media
-
-
-
 <a href="https://codepen.io/mariodante"  target="_blank" rel="noreferrer" >
 <img alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white">
 </a>
@@ -50,10 +52,15 @@ I always work tirelessly to exceed client expectations and create exceptional so
 <a href="https://www.linkedin.com/in/mario-dante-mariani/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mario%20Mariani-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mariodante@gmail.com">
- <img alt="Email" src="https://img.shields.io/badge/Gmail-mariodante@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="mailto:mariodante@gmail.com?subject=Github connection">
+ <img alt="Email" src="https://img.shields.io/badge/Gmail-mariodante@gmail.com-blue?style=flat-square&logo=gmail">
+</a>  
+**mariodante@gmail.com**
+
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
+ 
 
  <!--
 
