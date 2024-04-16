@@ -34,7 +34,7 @@ I always work tirelessly to exceed client expectations and create exceptional so
 
 
 
-<a href="https://codepen.io/mariodante" target="blank">
+<a href="https://codepen.io/mariodante"  target="_blank" rel="noreferrer" >
 <img alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white">
 </a>
 
@@ -73,7 +73,7 @@ I always work tirelessly to exceed client expectations and create exceptional so
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mario-dante-mariani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario-dante-mariani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mario-dante-mariani" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario-dante-mariani" height="30" width="40" /></a>
 <a href="https://medium.com/@mariodante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mariodante" height="30" width="40" /></a>
  
 
