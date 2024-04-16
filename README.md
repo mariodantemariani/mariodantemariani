@@ -25,21 +25,10 @@ I always work tirelessly to exceed client expectations and create exceptional so
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code)
 
-
-
-
-<!--
-<a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> </a>
--->
-
 ### Media
 <a href="https://codepen.io/mariodante"  target="_blank" rel="noreferrer" >
-<img alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white">
+<img alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white"/>
 </a>
-
 <a href="https://dev.to/mariodante" target="blank">
 <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white">
 </a>
@@ -55,6 +44,18 @@ I always work tirelessly to exceed client expectations and create exceptional so
 <a href="mailto:mariodante@gmail.com?subject=Github connection">
  <img alt="Email" src="https://img.shields.io/badge/Gmail-mariodante@gmail.com-blue?style=flat-square&logo=gmail">
 </a>
+
+
+
+
+<!--
+<a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> </a>
+-->
+
+
 
 
  <!--
