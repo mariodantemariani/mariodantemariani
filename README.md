@@ -54,13 +54,8 @@ I always work tirelessly to exceed client expectations and create exceptional so
 </a>
 <a href="mailto:mariodante@gmail.com?subject=Github connection">
  <img alt="Email" src="https://img.shields.io/badge/Gmail-mariodante@gmail.com-blue?style=flat-square&logo=gmail">
-</a>  
-**mariodante@gmail.com**
+</a>
 
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
-
-
- 
 
  <!--
 
